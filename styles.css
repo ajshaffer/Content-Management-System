@@ -1,0 +1,77 @@
+.success {
+    color: #006100;
+}
+.error {
+    color: #AD0000;
+}
+
+h1 {
+    background-color: beige;
+    color: black;
+    text-align: center;
+    padding: 0;
+}
+h2 {
+    background-color: beige;
+    color: black;
+    text-align: center;
+    padding: 0;
+}
+footer {
+    background-color: beige;
+    color: black;
+}
+
+input {
+    padding: 8px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: teal;
+    overflow: hidden;
+}
+
+nav a{
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+nav a:hover{
+    background-color: beige;
+    color: black;
+}
+
+.navbar-left {
+    float: left;
+}
+
+.navbar-right {
+    float: right;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+
+
+#register-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
